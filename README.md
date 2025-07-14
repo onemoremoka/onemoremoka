@@ -6,13 +6,12 @@
 
 ## About Me
 
-I am an **Electrical and Civil Engineer** currently enrolled in a **Master's degree in Data Science**. Based in **Chile**, I work part-time implementing, testing, and deploying **computer vision models**. I am also focused on my thesis project, "Domain Adaptation of SAM for Segmenting Images from Specific Domains such as Medical and Mining," at the Department of Electrical Engineering, **University of Chile**.
+I am an **Electrical and Civil Engineer** currently enrolled in a **Master's degree in Data Science**. Based in **Chile**. I'm focused on my thesis project, "Domain Adaptation of SAM for Segmenting Images from Specific Domains such as Medical and Mining," at the Department of Electrical Engineering, **University of Chile**.
 
 ## Interests
 
 - 🖥️ My main interests include **embedded systems**, **Machine Learning** algorithms, **Computer Vision**, and **MLOps**.
 - 🎓 I am currently pursuing a **Master's degree** in **Computer Science** at the **University of Chile**.
-- 🍿 In my free time, I enjoy watching anime (although I'm a bit behind on updates 😂), with **Hunter x Hunter** and **Marvel series** being among my top favorites.
 - 🏃‍♂️ While I am passionate about **programming**, I also appreciate time away from the computer, whether it's **walking**, **hiking**, **kickboxing**, or exploring **photography**.
 
 
